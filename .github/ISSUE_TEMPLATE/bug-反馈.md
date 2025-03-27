@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## 问题描述
-清晰简洁地描述 bug
+新的workers部署一直报错
 
 ## 环境信息
 - 客户端类型(SingBox, Clash)
